@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Venzett
+- 👀 I’m interested in javascript, html, css
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on anything i can help
+- 📫 How to reach me DM me
